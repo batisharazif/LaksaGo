@@ -1,3 +1,3 @@
 # LaksaGo
 SELAB Project Sem5 
-my first repository!
+WORK HARD GUYS!
